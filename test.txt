@@ -5,3 +5,5 @@ Hello my frind
 This is a local change
 
 This is a remote change
+
+This change should only be in the second branch
